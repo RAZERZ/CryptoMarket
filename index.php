@@ -17,6 +17,9 @@
             </table>
         </center>
         
+        <table class="Product-Cat" align="left">
+        </table>
+        
         <table class="Currency-Info" align="right">
             <tr>
                 <th class="Currency-TH">Crypto Currency</th>
@@ -33,6 +36,19 @@
             echo($json_decode['USD']['symbol']) . ($json_decode['USD']['last']); //Prints out from section USD the 'last' and the 'symbol values'
             
             ?> 
+                </td>
+            </tr>
+            <tr>
+                <td class="Currency-TD">ETH</td>
+                <td class="Currency-TD">
+            <?php
+
+            $json_file = file_get_contents('https://api.kraken.com/0/public/Ticker?pair=ETHUSD');
+            $json_decode = json_decode($json_file, true);
+
+            echo "$" . ($json_decode['result']['XETHZUSD']['a']['0']);
+
+            ?>
                 </td>
             </tr>
         </table>

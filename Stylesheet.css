@@ -9,9 +9,20 @@
 .Table-Header-TH-TD {
     position: relative;
     text-align: center;
-    color: rgb(221, 221, 221);
+    color: #dddddd;
     border: 2px solid #dddddd;
     padding: 8px;
+}
+
+.Product-Cat {
+    position: relative;
+    border: 2px solid #dddddd;
+    text-align: center;
+    font-family: sans-serif;
+    color: #dddddd;
+    padding: 8px;
+    margin-top: 5%;
+    
 }
 
 .Currency-Info {
