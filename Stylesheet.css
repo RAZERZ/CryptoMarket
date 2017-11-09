@@ -16,13 +16,22 @@
 
 .Product-Cat {
     position: relative;
-    border: 2px solid #dddddd;
     text-align: center;
     font-family: sans-serif;
     color: #dddddd;
-    padding: 8px;
     margin-top: 5%;
     
+}
+
+.ProductCats {
+    position: relative;
+    text-align: center;
+    color: #dddddd;
+    border: 2px solid #dddddd;
+    padding: 8px;
+}
+
+.ProductList {
 }
 
 .Currency-Info {
