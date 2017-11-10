@@ -1,0 +1,85 @@
+.Table-Header {
+    position: relative;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin-top: 1%;
+}
+
+.Table-Header-TH-TD {
+    position: relative;
+    text-align: center;
+    color: #dddddd;
+    border: 2px solid #dddddd;
+    padding: 8px;
+}
+
+.Init-Header {
+    position: relative;
+    color: #dddddd;
+    border: 2px solid #dddddd;
+    font-size: 80%;
+}
+
+.Product-Cat {
+    position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    color: #dddddd;
+    margin-top: 5%;
+    
+}
+
+.ProductCats {
+    position: relative;
+    text-align: center;
+    color: #dddddd;
+    border: 2px solid #dddddd;
+    padding: 8px;
+}
+
+.ProductCatHeader {
+    position: relative;
+    color: #dddddd;
+    text-align: left;
+    border: 1px solid #dddddd;
+}
+
+.ProductList {
+    position: relative;
+    margin-top: 1%;
+    color: #dddddd;
+    text-align: left;
+    font-size: 90%;
+}
+
+.ListService {
+    position: relative;
+    color: #dddddd;
+    text-align: left;
+    margin-left: 15%;
+    font-size: 85%;
+}
+
+.Currency-Info {
+    position: relative;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin-top: 5%;
+}
+
+.Currency-TH {
+    position: relative;
+    text-align: center;
+    color: #dddddd;
+    border: 2px solid #dddddd;
+    padding: 8px;
+}
+
+.Currency-TD {
+    position: relative;
+    text-align: center;
+    color: #dddddd;
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
