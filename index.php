@@ -14,6 +14,9 @@
                 <tr>
                     <th class="Table-Header-TH-TD">CryptoMarket - Spend Your Cryptocurrency!</th>
                 </tr>
+                <tr>
+                    <th class="Init-Header">Get a free chicken nugget when signing up, yep, that's right, <b>one whole nugget</b></th>
+                </tr>
             </table>
         </center>
         
@@ -22,7 +25,50 @@
                 <th class="ProductCats">Product Categories</th>
             </tr>
             <tr>
-                <td class="ProductList"></td>
+                <td class="ProductCatHeader">
+                    <ul>
+                        <li class="ProductList"><b>Webdevelopment</b></li>
+                        
+                        <p class="ListService">Wordpress</p>
+                        <p class="ListService">Namecheap</p>
+                        <p class="ListService">Lumfile</p>
+                        <p class="ListService">Seoclercks</p>
+                        <p class="ListService">Intuit</p>
+                        
+                        <li class="ProductList"><b>Ticket/Travel</b></li>
+                        
+                        <p class="ListService">Overstock</p>
+                        <p class="ListService">Virgin Galactic</p>
+                        <p class="ListService">CheapAir</p>
+                        <p class="ListService">Expedia</p>
+                        <p class="ListService">Bitcoin.Travel</p>
+                        <p class="ListService">LOT</p>
+                        <p class="ListService">WebJet</p>
+                        <p class="ListService">One Shot Hotel</p>
+                        
+                        <li class="ProductList"><b>Food</b></li>
+                        
+                        <p class="ListService">Subway</p>
+                        <p class="ListService">Pembury Tavern</p>
+                        <p class="ListService">Old Fitzroy</p>
+                        <p class="ListService">The Pink Crow</p>
+                        <p class="ListService">PizzaForCoins</p>
+                        <p class="ListService">BitcoinCoffee</p>
+                        <p class="ListService">Helen's Pizza</p>
+                        <p class="ListService">Coupa Cafe</p>
+                        <p class="ListService">Foodler</p>
+                        
+                        <li class="ProductList"><b>Online Services</b></li>
+                        
+                        <li class="ProductList"><b>pr0n/dating</b></li>
+                        
+                        <p class="ListService">OkCupid</p>
+                        <p class="ListService">Naughty America</p>
+                        <p class="ListService">Dream Lover</p>
+                        <p class="ListService">Badoo</p>
+                        
+                    </ul>
+                </td>
             </tr>
         </table>
         

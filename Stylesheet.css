@@ -2,7 +2,7 @@
     position: relative;
     font-family: arial, sans-serif;
     border-collapse: collapse;
-    width: 70%;
+    width: 80%;
     margin-top: 1%;
 }
 
@@ -12,6 +12,13 @@
     color: #dddddd;
     border: 2px solid #dddddd;
     padding: 8px;
+}
+
+.Init-Header {
+    position: relative;
+    color: #dddddd;
+    border: 2px solid #dddddd;
+    font-size: 80%;
 }
 
 .Product-Cat {
@@ -31,7 +38,27 @@
     padding: 8px;
 }
 
+.ProductCatHeader {
+    position: relative;
+    color: #dddddd;
+    text-align: left;
+    border: 1px solid #dddddd;
+}
+
 .ProductList {
+    position: relative;
+    margin-top: 1%;
+    color: #dddddd;
+    text-align: left;
+    font-size: 90%;
+}
+
+.ListService {
+    position: relative;
+    color: #dddddd;
+    text-align: left;
+    margin-left: 15%;
+    font-size: 85%;
 }
 
 .Currency-Info {
